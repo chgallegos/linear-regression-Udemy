@@ -1,4 +1,4 @@
-# UFOs
+# Purchasing Power Calculator for Car Dealership
 ## Overview
 
 The purpose of this analysis was use a linear regression in order to predict the estimated purchase value per customer at a vehicle dealership. For this analysis, the technology used was tensorflow Keras.
