@@ -40,7 +40,7 @@ The model ran with 25 nodes on the first and only hidden layer. The activation u
 
 The curve on the model shows that the loss is achieved in less than 10 epocs, meaning that the model has a high degree of accuracy as well as allignment to the linear data.
 
-![Screenshot](https://github.com/chgallegos/linear-regression-Udemy/blob/main/resources/evaluate_and_utilize.png utilize)
+![Screenshot](https://github.com/chgallegos/linear-regression-Udemy/blob/main/resources/evaluate_and_utilize.png)
 
 ----
 ## Summary 
